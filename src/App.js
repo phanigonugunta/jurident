@@ -1,23 +1,23 @@
-import logo from './logo.svg';
+import React, { Component } from 'react';
+import { user } from "react-icons/fa";
+import MyHeader from './components/MyHeader';
+import NavBar from './components/NavBar';
+import MyImg from './components/MyImg'
+import MyTitle from './components/MyTitle';
+import MyContent from './components/MyContent';
+import MyFooter from './components/MyFooter';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <MyHeader></MyHeader>
+    <NavBar></NavBar>
+    <MyImg src = "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/360000/360081.6.jpg"></MyImg>
+    <MyTitle></MyTitle>
+    <MyContent></MyContent>
+    <MyFooter></MyFooter>
     </div>
   );
 }
