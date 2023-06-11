@@ -8,8 +8,8 @@ function header() {
           <strong><h1>JURIDENT</h1></strong>
         </h1>
         <div style={{ marginTop: '-10px', marginLeft:'120px',marginRight: '0rem' }}>
-          <center><caption class="flex flex-nowrap scroll-pt-0 scroll-ml-5" style={{justifyContent:'center'}}>
-          <center> The Blog </center>
+          <center><caption class="flex flex-nowrap scroll-pt-0 scroll-ml-5 text-slate-500" style={{justifyContent:'center'}}>
+          <center> <b>News Edition</b>  </center>
          
         </caption></center>
         
