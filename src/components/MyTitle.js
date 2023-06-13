@@ -5,7 +5,7 @@ import {FaComment} from "react-icons/fa";
 import {FaBookmark} from "react-icons/fa";
 import {FaShare} from "react-icons/fa";
 
-function MyTitle() {
+function MyTitle(props) {
   return (
     <>
     
@@ -13,6 +13,7 @@ function MyTitle() {
         <h1>
             <b>
             MS Dhoni undergoes knee surgery in Mumbai
+            {/* {props.element} */}
             </b>
         </h1>
     </div>
