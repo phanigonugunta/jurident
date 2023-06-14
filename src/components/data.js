@@ -7,7 +7,7 @@ export const articles = [
         "id": "bloomberg",
         "name": "Bloomberg"
       },
-      "id":100,
+      "id":"100",
       "author": "Steve Matthews, Vince Golle, Craig Stirling",
       "title": "Fed Rates Latest: Get Ready for Pause and Assess Effect of Hikes - Bloomberg",
       "description": "Federal Reserve policymakers are about to take their first break from an interest-rate hiking campaign that started 15 months ago, even as they confront a resilient US economy and persistent inflation.",
@@ -21,7 +21,7 @@ export const articles = [
         "id": null,
         "name": "Coingape"
       },
-      "id":101,
+      "id":"101",
       "author": "Coingape Staff",
       "title": "Crypto News: U.S. Senator Pledges To Bring Crypto Regulation - CoinGape",
       "description": "US Senator Cynthia Lummis pushes for cryptocurrency regulations with a bipartisan bill, which would primarily focus on token definitions.",
@@ -35,7 +35,7 @@ export const articles = [
         "id": null,
         "name": "Fox Business"
       },
-      "id":102,
+      "id":"102",
       "author": "Erica Lamberg",
       "title": "Americans are getting tired of tipping, survey shows. Here’s why - Fox Business",
       "description": "A new study this week shows that Americans are tipping less often for numerous services. The latest data indicates that the amount of the tip can vary by age group.",
@@ -49,7 +49,7 @@ export const articles = [
         "id": null,
         "name": "The Boston Globe"
       },
-      "id":103,
+      "id":"103",
       "author": "Patrick Farmer",
       "title": "After decades of neglect, sickle cell disease could soon be transformed with gene-based therapies - The Boston Globe",
       "description": "Two rival gene-based treatments developed by three biotech firms with headquarters, or most of their operations, in Mass. could be approved late this year or early in 2024.",
@@ -63,7 +63,7 @@ export const articles = [
         "id": null,
         "name": "Cryptonews"
       },
-      "id":104,
+      "id":"104",
       "author": "Iliana Mavrou",
       "title": "Crypto Price Crash: SOL, ADA, MATIC, SHIB Plummet 20% Overnight – What is Going On? - Cryptonews",
       "description": "Cryptocurrencies from some of the top blockchains on the market have lost over 20% of their values overnight. Here's why.",
@@ -77,7 +77,7 @@ export const articles = [
         "id": "cnn",
         "name": "CNN"
       },
-      "id":105,
+      "id":"105",
       "author": "Ramishah Maruf",
       "title": "New Mexico and Walgreens reach $500 million opioid settlement - CNN",
       "description": "New Mexico reached a $500 million settlement agreement with Walgreens over the pharmaceutical giant’s role in the opioid epidemic, lawyers for the state said Friday.",
@@ -91,7 +91,7 @@ export const articles = [
         "id": null,
         "name": "The Guardian"
       },
-      "id":106,
+      "id":"106",
       "author": "Edward Helmore",
       "title": "FDA advisers say new Alzheimer’s drug lecanemab slows cognitive decline - The Guardian US",
       "description": "Panel’s opinion could pave way for full regulatory approval next month for treatment of disease that affects 6.5m Americans",
@@ -105,7 +105,7 @@ export const articles = [
         "id": null,
         "name": "Motley Fool"
       },
-      "id":107,
+      "id":"107",
       "author": "Daniel Sparks",
       "title": "Tesla Stock: Headed to $300? - The Motley Fool",
       "description": "This analyst thinks Tesla stock will soar from here, even after doubling this year.",
@@ -119,7 +119,7 @@ export const articles = [
         "id": null,
         "name": "Cointelegraph"
       },
-      "id":108,
+      "id":"108",
       "author": "Amaka Nwaokocha",
       "title": "EU needs further efforts to implement crypto regulations: Btc. x CEO - Cointelegraph",
       "description": "Christian Anders, CEO of Btc. x, discusses the need for EU lobbying and government cooperation for crypto regulations as he expresses optimism about Bitcoin and highlights the rise of mining with renewable energy.",
@@ -133,7 +133,7 @@ export const articles = [
         "id": null,
         "name": "Benzinga"
       },
-      "id":109,
+      "id":"109",
       "author": "Michael Cohen",
       "title": "Tesla, Coinbase, Apple, Amazon And Jack Dorsey Calls Ethereum A Security: Benzinga Bulls And Bears - Appl - Benzinga",
       "description": "Benzinga examined the prospects for many investors' favorite stocks over the last week — here's a look at some of our top stories.",
@@ -147,7 +147,7 @@ export const articles = [
         "id": null,
         "name": "Fox Business"
       },
-      "id":110,
+      "id":"110",
       "author": "Erica Lamberg",
       "title": "Americans are getting tired of tipping, survey shows. Here’s why - Fox Business",
       "description": "A new study this week shows that Americans are tipping less often for numerous services. The latest data indicates that the amount of the tip can vary by age group.",
@@ -161,7 +161,7 @@ export const articles = [
         "id": "business-insider",
         "name": "Business Insider"
       }, 
-      "id":111,
+      "id":"111",
       "author": "Leslie J. Allen",
       "title": "Bud Light lost its sales crown to Modelo amid LGBTQ backlash: Report - Business Insider",
       "description": "The Mexican lager pushed ahead as its US rival faced backlash over a promotion that featured transgender influencer Dylan Mulvaney.",
@@ -175,7 +175,7 @@ export const articles = [
         "id": null,
         "name": "CNBC"
       },
-      "id":112,
+      "id":"112",
       "author": "Zev Fima",
       "title": "The S&P climbs into bull market territory, with Fed in focus next week - CNBC",
       "description": "This past week proved be another win for the bulls, as the market rally broadened out beyond the big players in the tech sector.",
@@ -189,7 +189,7 @@ export const articles = [
         "id": null,
         "name": "Jacobin.com"
       },
-      "id":113,
+      "id":"113",
       "author": "Patrick Farmer",
       "title": "The Corporate Takeover of Soccer Is Ruining the World's Most Popular Game - Jacobin magazine",
       "description": "Manchester City is the hot favorite to win tonight’s Champions League final with the best team that an oil-rich autocracy can buy. It’s the latest stage in a long-term process that has converted the people’s game into a plaything of wealthy elites.",
@@ -203,7 +203,7 @@ export const articles = [
         "id": null,
         "name": "Android Central"
       },
-      "id":114,
+      "id":"114",
       "author": "Patrick Farmer",
       "title": "Best Father's Day tech deals of 2023: your gadget gift guide - Android Central",
       "description": "Discounted smartphones, wearables, and more.",
@@ -217,7 +217,7 @@ export const articles = [
         "id": "wired",
         "name": "Wired"
       },
-      "id":115,
+      "id":"115",
       "author": "Lily Hay Newman, Andy Greenberg",
       "title": "9 Years After the Mt. Gox Hack, Feds Indict Alleged Culprits - WIRED",
       "description": "Plus: Instagram’s CSAM network gets exposed, Clop hackers claim credit for MOVEit Transfer exploit, and a $35 million crypto heist has North Korean ties.",
@@ -231,7 +231,7 @@ export const articles = [
         "id": "bloomberg",
         "name": "Bloomberg"
       },
-      "id":116,
+      "id":"116",
       "author": "Bailey Lipschultz",
       "title": "GameStop Needs Ryan Cohen More Than Ever to Maintain Meme Status - Bloomberg",
       "description": "GameStop Corp.’s revolving leadership door and an unclear strategy to compete in the video-game retail industry has puzzled Wall Street analysts. For its legions of retail traders, however, what matters most is Ryan Cohen.",
@@ -245,7 +245,7 @@ export const articles = [
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "id":117,
+      "id":"117",
       "author": "Gabriella Cruz-Martinez",
       "title": "Some homebuilders are cutting corners as demand heats up - Yahoo Finance",
       "description": "Those mistakes could derail the mortgage process or cost buyers thousands of dollars down the road.",
@@ -259,7 +259,7 @@ export const articles = [
         "id": null,
         "name": "CNBC"
       },
-      "id":118,
+      "id":"118",
       "author": "Michael Santoli",
       "title": "Many are declaring the bear over, but a new bull market is more a process than a single moment - CNBC",
       "description": "A transition to a new bull phase is more a process than a moment",
@@ -273,7 +273,7 @@ export const articles = [
         "id": null,
         "name": "Cointelegraph"
       },
-      "id":119,
+      "id":"119",
       "author": "Amaka Nwaokocha",
       "title": "OpenAI CEO highlights South Korean chips sector for AI growth, investment - Cointelegraph",
       "description": "OpenAI CEO Sam Altman encourages South Korea to lead in AI chip production, expressing interest in investing in Korean startups.",

@@ -12,8 +12,8 @@ function MyTitle(props) {
     <div style={{ marginRight:'100px' }} class="pt-3 text-3xl pb-5">
         <h1>
             <b>
-            MS Dhoni undergoes knee surgery in Mumbai
-            {/* {props.element} */}
+            {/* MS Dhoni undergoes knee surgery in Mumbai */}
+            {props.element}
             </b>
         </h1>
     </div>

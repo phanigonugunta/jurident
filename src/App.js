@@ -16,7 +16,7 @@ function App() {
           <Route path = "/home" element = {<Home/>}/>
           <Route path = "/news" element = {<News/>}/>
           {articles.map((article) => {
-                        const { id, title, description, author } = article;
+                        const { id, author, title, description,url, urlToImage, publishedAt,content  } = article;
                         return (
                             <Route
                                 path={id}
@@ -25,6 +25,10 @@ function App() {
                                         author={author}
                                         title={title}
                                         description={description}
+                                        url={url}
+                                        urlToImage={urlToImage}
+                                        publishedAt={publishedAt}
+                                        content={content}
                                     />
                                 }
                             />
